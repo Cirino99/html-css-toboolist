@@ -108,3 +108,13 @@ body {
 .listitemstatus.sales {
     background-color: rgb(176,201,38);
 }
+.checkx {
+    border-radius: 50%;
+    border: 1px solid red;
+    color: red;
+}
+.check {
+    border-radius: 50%;
+    border: 1px solid green;
+    color: green;  
+}
