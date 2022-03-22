@@ -114,9 +114,11 @@ body {
     border-radius: 50%;
     border: 1px solid red;
     color: red;
+    padding: 1px;
 }
 .check {
     border-radius: 50%;
     border: 1px solid green;
-    color: green;  
+    color: green;
+    padding: 1px;
 }
