@@ -10,8 +10,10 @@ body {
     font-size: 14px;
 }
 #container {
+    background-color: white;
     width: 80%;
     margin: 10px auto;
+    padding: 10px 3%;
 }
 
 /* stile header */
@@ -29,4 +31,25 @@ body {
 }
 #logotext {
     font-size: 40px;
+}
+
+/* stile main */
+.bar {
+    border-bottom: solid 1px rgb(246,248,249);
+}
+.barbutton {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 0px;
+    border-radius: 8px 8px 8px 8px;   
+}
+.barbutton.button {
+    background-color: rgb(71,173,241);
+    color: white;
+    margin-right: 5px;
+}
+.barbutton.text{
+    border: solid 1px #ccc;
+    width: 90px;
 }
