@@ -21,21 +21,23 @@ body {
     width: 60px;
     height: auto;
     line-height: 60px;
-    vertical-align: middle;
+    vertical-align: -25%;
 }
 #logotext {
     font-size: 40px;
 }
 
 /* stile main */
-
+.main {
+    color: rgb(68,72,81 );
+}
 /* stile barra */
 .bar {
     padding-bottom: 10px;
     background-color: white;
     width: 80%;
     margin: 10px auto;
-    padding: 10px 3%;
+    padding: 15px 3%;
     margin-top: 40px;
     margin-bottom: 2px;
 }
