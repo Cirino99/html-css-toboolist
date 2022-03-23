@@ -21,10 +21,11 @@ body {
     width: 60px;
     height: auto;
     line-height: 60px;
-    vertical-align: -25%;
+    vertical-align: middle;
 }
 #logotext {
     font-size: 40px;
+    vertical-align: middle;
 }
 
 /* stile main */
